@@ -18,4 +18,4 @@ async def what_are_TWTRE(ctx):
 async def what_do(ctx):
     await ctx.send(f'Напишите одну из комманд(what_is_ep,  what_are_TWTRE)')
 
-bot.run("MTE1NzM1MjQ3OTc2MDA2MDQzNg.GFofqG.niM9vXkAzLQbJFlkdfbxE10jgxHDT3eXAWJrBk")
+bot.run("Вставь сюда токен своего бота")
